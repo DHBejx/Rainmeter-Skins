@@ -68,6 +68,7 @@
         FontFace = #fontMainBold#
         FontColor = #fontColor#55
         StringAlign = CenterCenter
+        x = ([Background:w] / 2)
         AntiAlias = 1
 
     [HexBG]
@@ -86,3 +87,12 @@
         Autoscale = 1
         w = 86
         h = 50
+
+    [ClockHand]
+        w = ([Background:w])
+        h = ([Background:h])
+        OffSetX = ([Background:w] / 2)
+        OffSetY = ([Background:h] / 2)
+        StartAngle=6.2832
+        RotationAngle=6.2832
+        AntiAlias = 1
