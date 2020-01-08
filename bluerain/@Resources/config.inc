@@ -5,7 +5,7 @@
         fontColor =FFFFFF
         backgroundColor = 1B1B1B
         AccentBorder = #fontColor#11
-        customColor = FFFFFF
+        customColor =FFFFFF
 
     ;[Fonts]
 

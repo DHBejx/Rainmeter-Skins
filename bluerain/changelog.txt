@@ -1,9 +1,10 @@
 -added changelog
 -tbar changes
 	-added color changing
+	-custom hex color
 
 
 todo:
--custom hex color
+-get custom hex color smoother
 -musicplayer
 -ts3 webparser
