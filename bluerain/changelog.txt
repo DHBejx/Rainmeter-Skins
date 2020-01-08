@@ -1,0 +1,9 @@
+-added changelog
+-tbar changes
+	-added color changing
+
+
+todo:
+-custom hex color
+-musicplayer
+-ts3 webparser

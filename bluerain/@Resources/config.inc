@@ -2,12 +2,10 @@
 
     ;[Colors]
 
-        fontColor = 007FFF
-        discordgray= 2F3136 
+        fontColor =FFFFFF
         backgroundColor = 1B1B1B
-        AccentColor= 404040
-        AccentBorder = 80808066
-        customHexColor = FFFFFF
+        AccentBorder = #fontColor#11
+        customColor = FFFFFF
 
     ;[Fonts]
 
@@ -96,3 +94,15 @@
         StartAngle=6.2832
         RotationAngle=6.2832
         AntiAlias = 1
+
+    ;for 100x100 hex
+    [Mask]
+        ImageName = #@#images/mask.png
+        x = 0r
+        y = 0r
+        w = 60
+        h = 60
+        AntiAlias = 1
+        UpdateDivider = -1
+
+        
