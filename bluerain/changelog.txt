@@ -1,10 +1,10 @@
--added changelog
--tbar changes
-	-added color changing
-	-custom hex color
+-custom hex color smoothed
+-design overhaul
+	different color scheme
+-clockfaceless clock added
+-minor fixes
 
 
 todo:
--get custom hex color smoother
 -musicplayer
 -ts3 webparser

@@ -2,10 +2,10 @@
 
     ;[Colors]
 
-        fontColor =FFFFFF
-        backgroundColor = 1B1B1B
-        AccentBorder = #fontColor#11
-        customColor =FFFFFF
+        customColor =DD00DD
+        fontColor =DD00DD
+        backgroundColor = 00FFFF
+        AccentBorder = FFFFFF55
 
     ;[Fonts]
 
@@ -64,7 +64,7 @@
 
     [ClockFont]   
         FontFace = #fontMainBold#
-        FontColor = #fontColor#55
+        FontColor = #fontColor#AA
         StringAlign = CenterCenter
         x = ([Background:w] / 2)
         AntiAlias = 1
@@ -98,10 +98,10 @@
     ;for 100x100 hex
     [Mask]
         ImageName = #@#images/mask.png
-        x = 0r
-        y = 0r
-        w = 60
-        h = 60
+        x = -18r
+        y = -18r
+        w = 100
+        h = 100
         AntiAlias = 1
         UpdateDivider = -1
 
