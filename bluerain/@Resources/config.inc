@@ -2,10 +2,10 @@
 
     ;[Colors]
 
-        customColor =DD00DD
-        fontColor =DD00DD
+        customColor =FFFFFF
+        fontColor =FFFFFF
         backgroundColor = 00FFFF
-        AccentBorder = FFFFFF55
+        AccentBorder = 000000FF
 
     ;[Fonts]
 
@@ -70,7 +70,7 @@
         AntiAlias = 1
 
     [HexBG]
-        ImageName = #@#images/bg2.png
+        ImageName = #@#images/bg.png
         AntiAlias = 1
         Updatedivider = -1 ;Backgrounds need no updates
         w = 100
@@ -104,5 +104,7 @@
         h = 100
         AntiAlias = 1
         UpdateDivider = -1
+
+    
 
         
